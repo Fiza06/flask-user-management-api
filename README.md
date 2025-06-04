@@ -13,7 +13,7 @@ A lightweight Flask REST API for managing users, featuring:
 
 1️⃣ Clone the repo 
 
-git clone [https://github.com/yourusername/flask-user-management-api.git](https://github.com/yourusername/flask-user-management-api.git)
+git clone [https://github.com/Fiza06/flask-user-management-api.git](https://github.com/Fiza06/flask-user-management-api.git)
 cd flask-user-management-api
 
 
